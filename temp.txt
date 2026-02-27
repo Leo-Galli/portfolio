@@ -1,0 +1,1 @@
+=IMAGE("https://barcode.tec-it.com/barcode.ashx?data="&A1&"&code=Code128")
